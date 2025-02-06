@@ -12,22 +12,24 @@ If you want to support my work:
 
 
 
-*Use Right click and click save  
+*Right click and click save  
 
 ✅ - Working (Normal ARM was tested on Raspberry Pi)  
 ❔- Not tested yet but should work  
 ❌ - Don't work 
 
+
+
 ## Aplication
 
 | Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| Gogs | [egg-gogs.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/applications/egg-gogs.json) | ✅ | ✅ | ✅ | Not ssl ready and on ARM use native ARM version
+|--|--|--|--|--|--|--|
+| Gogs | [egg-gogs.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/applications/egg-gogs.json) | ✅ | ✅ | ✅ | 2023 | Not ssl ready and on ARM use native ARM version
 
 ## Databases
 | Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| Redis server generic | [egg-generic-redis.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/databases/egg-generic-redis.json) | ✅ | ✅ | ✅ | supports: v5.0,6.0,6.2,7.0 |
+|--|--|--|--|--|--|--|
+| Redis server generic | [egg-generic-redis.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/databases/egg-generic-redis.json) | ✅ | ✅ | ✅ | 2023 | supports: v5.0,6.0,6.2,7.0 |
 
 ## Game eggs
 
