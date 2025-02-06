@@ -8,6 +8,9 @@ If you want to support my work:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2HGECS)
 
+Orignal Dev
+https://github.com/QuintenQVD0/Q_eggs
+
 ## Aplication
 
 | Service | file* | AMD64 | ARM64 | ARM Oracle | More info |
