@@ -1,15 +1,14 @@
 # RQ_eggs
-Custom eggs ARM64 for Pterodactl.
+Custom ARM64 eggs for Pterodactyl.
 
-Some of them work on ARM and also ARM form Oracle Free Tier
+An Little Upgrade for thesee old eggs, Some of them work on ARM and also ARM form Oracle Free Tier
+
 
 
 If you want to support my work:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2HGECS)
 
-Orignal Dev
-https://github.com/QuintenQVD0/Q_eggs
 
 ## Aplication
 
