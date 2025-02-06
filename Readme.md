@@ -22,91 +22,91 @@ If you want to support my work:
 
 ## Aplication
 
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | Gogs | [egg-gogs.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/applications/egg-gogs.json) | ✅ | ✅ | ✅ | 2023 | Not ssl ready and on ARM use native ARM version
 
 ## Databases
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | Redis server generic | [egg-generic-redis.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/databases/egg-generic-redis.json) | ✅ | ✅ | ✅ | 2023 | supports: v5.0,6.0,6.2,7.0 |
 
 ## Game eggs
 
 ### Among Us
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| Among Us - Impostor Server | [egg-among-us--impostor-server.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/among_us/egg-among-us--impostor-server.json) | ✅ | ✅ | ✅ | You MUST use Port 22023 for the Master Server. To host multiple servers, please read [Impostor Multiple Servers Documentation](https://github.com/Impostor/Impostor/blob/master/docs/Running-the-server.md#multiple-servers).
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| Among Us - Impostor Server | [egg-among-us--impostor-server.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/among_us/egg-among-us--impostor-server.json) | ✅ | ✅ | ✅ | 2022 | You MUST use Port 22023 for the Master Server. To host multiple servers, please read [Impostor Multiple Servers Documentation](https://github.com/Impostor/Impostor/blob/master/docs/Running-the-server.md#multiple-servers).
 
 ### BeamMP
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| beamMP | [egg-beamMP-servers-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/beamMP/egg-beamMP-servers-ARM64.json) | ✅ | ✅ | ✅ | native arm64  |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| beamMP | [egg-beamMP-servers-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/beamMP/egg-beamMP-servers-ARM64.json) | ✅ | ✅ | ✅ | 2022 | native arm64  |
 
 ### Factorio
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| Factorio | [egg-factorio-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/factorio/egg-factorio-a-r-m64.json) | ❌ | ✅ | ✅ | 1 port |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| Factorio | [egg-factorio-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/factorio/egg-factorio-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | 1 port |
 
 ### GTA
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| FiveM | [egg-five-m-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-five-m-a-r-m64.json) | ❌ | ✅ | ✅ | !!FEX!! |
-| Multi Theft Auto | [egg-multi-theft-auto.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-multi-theft-auto.json) | ❌ | ✅ | ✅ | Needs 2 ports |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| FiveM | [egg-five-m-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-five-m-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | !!FEX!! |
+| Multi Theft Auto | [egg-multi-theft-auto.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-multi-theft-auto.json) | ❌ | ✅ | ✅ | 2022 | Needs 2 ports |
 | Rage MP | [egg-rage--m-p.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-rage--m-p.json) | ✅ | ✅ | ✅ | Set the ARCH variable for your arch and select the right docker image |
 | SA-MP | [egg-s-a--m-p.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-s-a--m-p.json) | ✅ | ✅ | ✅ | Uses box86 emulation
 
 ### Minecraft
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| paper + hibernation | [egg-paper--hibernation.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-paper--hibernation.json) | ✅ | ❌ | ❌ | to controle the hibarnate in the console it is: `msh` and to controle minecraft is it: `mine` |
-| Bedrock Vanilla | [egg-vanilla-bedrock.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-vanilla-bedrock.json) | ❌ | ✅ | ✅ | Works but slow startup |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| paper + hibernation | [egg-paper--hibernation.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-paper--hibernation.json) | ✅ | ❌ | ❌ | 2022 | to controle the hibarnate in the console it is: `msh` and to controle minecraft is it: `mine` |
+| Bedrock Vanilla | [egg-vanilla-bedrock.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-vanilla-bedrock.json) | ❌ | ✅ | ✅ | 2022 | Works but slow startup |
 
 ### Path of Titans
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| Path of Titans | [egg-path-of-titans-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/path_of_titans/egg-path-of-titans-a-r-m64.json) | ❔ | ❔ | ✅ | 5 ports + native arm64  | 
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| Path of Titans | [egg-path-of-titans-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/path_of_titans/egg-path-of-titans-a-r-m64.json) | ❔ | ❔ | ✅ | 2022 | 5 ports + native arm64  | 
 
 ### Quake 2
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| Q2PRO | [egg-q2-p-r-o.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/quake_2/Q2PRO/egg-q2-p-r-o.json) | ✅ | ❌ | ❌ | Shiped .pak files may be out of date. + install can take 15 minutes. |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| Q2PRO | [egg-q2-p-r-o.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/quake_2/Q2PRO/egg-q2-p-r-o.json) | ✅ | ❌ | ❌ | 2022 | Shiped .pak files may be out of date. + install can take 15 minutes. |
 
 
 ### SteamCMD
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| 7 days to die | [egg-7-days-to-die-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-7-days-to-die-a-r-m64.json) | ❌ | ✅ | ✅ | !!STEAMCMD!! + needs 6 ports + console is realy slow and shutdown can take up to 50 seconds |
-| Ark survival evikved | [egg-ark--survival-evolved.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-ark--survival-evolved.json) | ❌ | ❌ | ✅ | !!STEAMCMD!! |
-| AssettoServer | [egg-assetto-server.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-assetto-server.json) | ✅ | ✅ | ✅ | Needs 2 ports |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| 7 days to die | [egg-7-days-to-die-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-7-days-to-die-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | !!STEAMCMD!! + needs 6 ports + console is realy slow and shutdown can take up to 50 seconds |
+| Ark survival evikved | [egg-ark--survival-evolved.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-ark--survival-evolved.json) | ❌ | ❌ | ✅ | 2022 | !!STEAMCMD!! |
+| AssettoServer | [egg-assetto-server.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-assetto-server.json) | ✅ | ✅ | ✅ | 2022 | Needs 2 ports |
 | Counter strike global offensive | [egg-counter--strike--global-offensive.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-counter--strike--global-offensive.json) | ❌ | ✅ | ✅ | !!STEAMCMD!! |
-| Counter Strike Source | [egg-css-arm64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-css-arm64.json) | ❌ | ✅ | ✅ | !!STEAMCMD!! |
-| Enshrouded| [egg-enshrouded-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-enshrouded-a-r-m64.json) | ❌ | ✅ | ✅ | !!STEAMCMD!! !!FEX!! 2 port 18GB disk space |
-| Garry's Mod | [egg-garrys-mod-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-garrys-mod-a-r-m64.json) | ❌ | ✅ | ✅ | !!STEAMCMD!! |
-| Palworld | [egg-palworld-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-palworld-a-r-m64.json) | ❌ | ✅ | ✅ | !!STEAMCMD!! + !!FEX!! (It can take up to 3 minutes before you can use the console to this egg)|
-| Project Zomboid | [egg-project-zomboid-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-project-zomboid-a-r-m64.json) | ❌ | ❌ | ✅ | !!STEAMCMD!! + !!FEX!! (Does not seem to work on a Pi)|
-| HLDS Engine Game / CounterStrike | [egg-h-l-d-s-engine-game-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-h-l-d-s-engine-game-a-r-m64.json) | ❌ | ✅ | ✅ | !!STEAMCMD!!, crashes on first start, on cstrike error reinstall, login is needed |
-| SCP: Secret Laboratory Exiled| [egg-s-c-p--s-l--exiled--a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-s-c-p--s-l--exiled--a-r-m64.json) | ❌| ✅ | ✅ | !!STEAMCMD!! + slow! + !!FEX!! |
-| Satisfactory | [egg-satisfactory-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-satisfactory-a-r-m64.json) | ❌ | ❌ | ✅ | 12GiB Ram, 3 ports  !!FEX!!|
-| The Front | [egg-the-front-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-the-front-a-r-m64.json) | ❌ | ✅ | ✅ | Needs 4 ports, 10GiB disk space, 5GiB ram |
-| Unturned | [egg-unturned.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-unturned.json) | ❌ | ✅ | ✅ | Needs 3 ports (game, game+1, game+2) && !!STEAMCMD!! **The first launch will segfault just wait for the server to start again** |
-| Valheim | [egg-valheim.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-valheim.json) | ❌ | ❌ | ✅ | !!STEAMCMD!! |
+| Counter Strike Source | [egg-css-arm64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-css-arm64.json) | ❌ | ✅ | ✅ | 2022 | !!STEAMCMD!! |
+| Enshrouded| [egg-enshrouded-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-enshrouded-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | !!STEAMCMD!! !!FEX!! 2 port 18GB disk space |
+| Garry's Mod | [egg-garrys-mod-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-garrys-mod-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | !!STEAMCMD!! |
+| Palworld | [egg-palworld-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-palworld-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | !!STEAMCMD!! + !!FEX!! (It can take up to 3 minutes before you can use the console to this egg)|
+| Project Zomboid | [egg-project-zomboid-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-project-zomboid-a-r-m64.json) | ❌ | ❌ | ✅ | 2022 | !!STEAMCMD!! + !!FEX!! (Does not seem to work on a Pi)|
+| HLDS Engine Game / CounterStrike | [egg-h-l-d-s-engine-game-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-h-l-d-s-engine-game-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | !!STEAMCMD!!, crashes on first start, on cstrike error reinstall, login is needed |
+| SCP: Secret Laboratory Exiled| [egg-s-c-p--s-l--exiled--a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-s-c-p--s-l--exiled--a-r-m64.json) | ❌| ✅ | ✅ | 2022 | !!STEAMCMD!! + slow! + !!FEX!! |
+| Satisfactory | [egg-satisfactory-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-satisfactory-a-r-m64.json) | ❌ | ❌ | ✅ | 2022 | 12GiB Ram, 3 ports  !!FEX!!|
+| The Front | [egg-the-front-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-the-front-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | Needs 4 ports, 10GiB disk space, 5GiB ram |
+| Unturned | [egg-unturned.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-unturned.json) | ❌ | ✅ | ✅ | 2022 | Needs 3 ports (game, game+1, game+2) && !!STEAMCMD!! **The first launch will segfault just wait for the server to start again** |
+| Valheim | [egg-valheim.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-valheim.json) | ❌ | ❌ | ✅ | 2022 | !!STEAMCMD!! |
 
 ### Terraria
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| Terraria Vanilla | [egg-terraria-vanilla-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/terraria/egg-terraria-vanilla-ARM64.json) | ❌ | ✅ | ✅ |
-| Terraria tShock | [egg-tshock-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/terraria/egg-tshock-ARM64.json) | ✅ | ✅ | ✅ | running with mono |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| Terraria Vanilla | [egg-terraria-vanilla-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/terraria/egg-terraria-vanilla-ARM64.json) | ❌ | ✅ | ✅ | 2022 |
+| Terraria tShock | [egg-tshock-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/terraria/egg-tshock-ARM64.json) | ✅ | ✅ | ✅ | 2022 | running with mono |
 
 ## Other
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| OpenWorld | [egg-open-world.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/other/egg-open-world.json) | ✅ | ✅ | ✅ | Difrend docker image for ARM64 then for AMD64 and **needs a reinstall after changing the primary port! (remove old config first then reinstall)** | 
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| OpenWorld | [egg-open-world.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/other/egg-open-world.json) | ✅ | ✅ | ✅ | 2022 | Difrend docker image for ARM64 then for AMD64 and **needs a reinstall after changing the primary port! (remove old config first then reinstall)** | 
 
 ## Voice
-| Service | file* | AMD64 | ARM64 | ARM Oracle | More info | Updated |
-|--|--|--|--|--|--|
-| TeamSpeak3| [egg-teamspeak3-server-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/voice/egg-teamspeak3-server-ARM64.json) | ❌ | ✅ | ✅ |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+|--|--|--|--|--|--|--|
+| TeamSpeak3| [egg-teamspeak3-server-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/voice/egg-teamspeak3-server-ARM64.json) | ❌ | ✅ | ✅ | 2022 |
 
 
 
