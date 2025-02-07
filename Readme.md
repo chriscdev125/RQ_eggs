@@ -54,8 +54,8 @@ If you want to support my work:
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | paper + hibernation | [egg-paper--hibernation.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-paper--hibernation.json) | ✅ | ❌ | ❌ | 2022 | to controle the hibarnate in the console it is: `msh` and to controle minecraft is it: `mine` |
-| Bedrock Vanilla - Box64 | [egg-vanilla-bedrock-box64.json](https://raw.githubusercontent.com/chriscdev125/RQ_eggs/refs/heads/main/game_eggs/minecraft/egg-vanilla-bedrock-box64.json) | ❌ | ✅ | ✅ | 2025 | Works but slow startup |
-| Bedrock Vanilla - FEX | [egg-vanilla-bedrock-FEX.json](https://raw.githubusercontent.com/chriscdev125/RQ_eggs/refs/heads/main/game_eggs/minecraft/egg-vanilla-bedrock-FEX.json) | ❌ | ✅ | ✅ | 2025 | Works with a fast startup |
+| Bedrock Vanilla - Box64 | [egg-vanilla-bedrock-box64.json](https://raw.githubusercontent.com/chriscdev125/RQ_eggs/refs/heads/main/game_eggs/minecraft/egg-vanilla-bedrock-box64.json) | ❌ | ✅ | ✅ | 2025-02-05 | Works but slow startup |
+| Bedrock Vanilla - FEX | [egg-vanilla-bedrock-FEX.json](https://raw.githubusercontent.com/chriscdev125/RQ_eggs/refs/heads/main/game_eggs/minecraft/egg-vanilla-bedrock-FEX.json) | ❌ | ✅ | ✅ | 2025-02-05 | Works with a fast startup |
 
 
 ### SteamCMD
