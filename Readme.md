@@ -39,7 +39,11 @@ If you want to support my work:
 | Among Us - Impostor Server | [egg-among-us--impostor-server.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/among_us/egg-among-us--impostor-server.json) | ✅ | ✅ | ✅ | 2022 | You MUST use Port 22023 for the Master Server. To host multiple servers, please read [Impostor Multiple Servers Documentation](https://github.com/Impostor/Impostor/blob/master/docs/Running-the-server.md#multiple-servers).
 | BeamMP | [egg-beamMP-servers-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/beamMP/egg-beamMP-servers-ARM64.json) | ✅ | ✅ | ✅ | 2022 | native arm64  |
 | Factorio | [egg-factorio-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/factorio/egg-factorio-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | 1 port |
-# GTA
+| Path of Titans | [egg-path-of-titans-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/path_of_titans/egg-path-of-titans-a-r-m64.json) | ❔ | ❔ | ✅ | 2022 | 5 ports + native arm64  | 
+| Quake 2 - Q2PRO | [egg-q2-p-r-o.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/quake_2/Q2PRO/egg-q2-p-r-o.json) | ✅ | ❌ | ❌ | 2022 | Shiped .pak files may be out of date. + install can take 15 minutes. |
+
+
+### GTA
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | FiveM | [egg-five-m-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-five-m-a-r-m64.json) | ❌ | ✅ | ✅ | 2022 | !!FEX!! |
@@ -52,14 +56,6 @@ If you want to support my work:
 | paper + hibernation | [egg-paper--hibernation.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-paper--hibernation.json) | ✅ | ❌ | ❌ | 2022 | to controle the hibarnate in the console it is: `msh` and to controle minecraft is it: `mine` |
 | Bedrock Vanilla - Box64 | [egg-vanilla-bedrock-box64.json](https://raw.githubusercontent.com/chriscdev125/RQ_eggs/refs/heads/main/game_eggs/minecraft/egg-vanilla-bedrock-box64.json) | ❌ | ✅ | ✅ | 2025 | Works but slow startup |
 | Bedrock Vanilla - FEX | [egg-vanilla-bedrock-FEX.json](https://raw.githubusercontent.com/chriscdev125/RQ_eggs/refs/heads/main/game_eggs/minecraft/egg-vanilla-bedrock-FEX.json) | ❌ | ✅ | ✅ | 2025 | Works with a fast startup |
-### Path of Titans
-| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
-|--|--|--|--|--|--|--|
-| Path of Titans | [egg-path-of-titans-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/path_of_titans/egg-path-of-titans-a-r-m64.json) | ❔ | ❔ | ✅ | 2022 | 5 ports + native arm64  | 
-### Quake 2
-| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
-|--|--|--|--|--|--|--|
-| Q2PRO | [egg-q2-p-r-o.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/quake_2/Q2PRO/egg-q2-p-r-o.json) | ✅ | ❌ | ❌ | 2022 | Shiped .pak files may be out of date. + install can take 15 minutes. |
 
 
 ### SteamCMD
