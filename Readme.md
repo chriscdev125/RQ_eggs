@@ -33,7 +33,7 @@ If you want to support my work:
 # Game eggs
 
 ####  **General Games**
-| General - Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | Among Us - Impostor Server | [egg-among-us--impostor-server.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/among_us/egg-among-us--impostor-server.json) | ✅ | ✅ | ✅ | 2023-01-18 | You MUST use Port 22023 for the Master Server. To host multiple servers, please read [Impostor Multiple Servers Documentation](https://github.com/Impostor/Impostor/blob/master/docs/Running-the-server.md#multiple-servers).
 | BeamMP | [egg-beamMP-servers-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/beamMP/egg-beamMP-servers-ARM64.json) | ✅ | ✅ | ✅ | 2022-11-22 | native arm64  |
@@ -42,7 +42,7 @@ If you want to support my work:
 | Quake 2 - Q2PRO | [egg-q2-p-r-o.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/quake_2/Q2PRO/egg-q2-p-r-o.json) | ✅ | ❌ | ❌ | 2024-03-24 | Shiped .pak files may be out of date. + install can take 15 minutes. |
 
 #### **GTA**
-| GTA - Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
+| Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | FiveM | [egg-five-m-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-five-m-a-r-m64.json) | ❌ | ✅ | ✅ | 2024-07-15 | !!FEX!! |
 | Multi Theft Auto | [egg-multi-theft-auto.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-multi-theft-auto.json) | ❌ | ✅ | ✅ | 2023-10-08 | Needs 2 ports |
