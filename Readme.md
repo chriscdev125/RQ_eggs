@@ -1,10 +1,9 @@
 # RQ_eggs
-Custom eggs ARM64 for Pterodactyl.
-
-An Little Upgrade for thesee old eggs, Some of them work on ARM and also ARM form Oracle Free Tier
+Custom eggs ARM64 for Pterodactyl.  
 
 
 
+An Little Upgrade for thesee old eggs, Some of them work on ARM and also ARM form Oracle Free Tier  
 
 If you want to support my work:
 
@@ -12,7 +11,8 @@ If you want to support my work:
 
 
 
-*Right click and click save  
+------------
+**Right click and click save!**
 
 ✅ - Working (Normal ARM was tested on Raspberry Pi)  
 ❔- Not tested yet but should work  
@@ -21,7 +21,6 @@ If you want to support my work:
 
 
 ## Aplication
-
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | Gogs | [egg-gogs.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/applications/egg-gogs.json) | ✅ | ✅ | ✅ | 2022-06-30 | Not ssl ready and on ARM use native ARM version
@@ -31,9 +30,9 @@ If you want to support my work:
 |--|--|--|--|--|--|--|
 | Redis server generic | [egg-generic-redis.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/databases/egg-generic-redis.json) | ✅ | ✅ | ✅ | 2022-07-23 | supports: v5.0,6.0,6.2,7.0 |
 
-## Game eggs
+# Game eggs
 
-### General Games
+####  **General Games**
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | Among Us - Impostor Server | [egg-among-us--impostor-server.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/among_us/egg-among-us--impostor-server.json) | ✅ | ✅ | ✅ | 2023-01-18 | You MUST use Port 22023 for the Master Server. To host multiple servers, please read [Impostor Multiple Servers Documentation](https://github.com/Impostor/Impostor/blob/master/docs/Running-the-server.md#multiple-servers).
@@ -42,15 +41,15 @@ If you want to support my work:
 | Path of Titans | [egg-path-of-titans-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/path_of_titans/egg-path-of-titans-a-r-m64.json) | ❔ | ❔ | ✅ | 2024-08-28 | 5 ports + native arm64  | 
 | Quake 2 - Q2PRO | [egg-q2-p-r-o.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/quake_2/Q2PRO/egg-q2-p-r-o.json) | ✅ | ❌ | ❌ | 2024-03-24 | Shiped .pak files may be out of date. + install can take 15 minutes. |
 
-
-### GTA
+#### **GTA**
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | FiveM | [egg-five-m-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-five-m-a-r-m64.json) | ❌ | ✅ | ✅ | 2024-07-15 | !!FEX!! |
 | Multi Theft Auto | [egg-multi-theft-auto.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-multi-theft-auto.json) | ❌ | ✅ | ✅ | 2023-10-08 | Needs 2 ports |
 | Rage MP | [egg-rage--m-p.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-rage--m-p.json) | ✅ | ✅ | ✅ | 2023-02-22 | Set the ARCH variable for your arch and select the right docker image |
 | SA-MP | [egg-s-a--m-p.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/gta/egg-s-a--m-p.json) | ✅ | ✅ | ✅ | 2024-05-25 | Uses box86 emulation
-### Minecraft
+
+#### **Minecraft**
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | paper + hibernation | [egg-paper--hibernation.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/minecraft/egg-paper--hibernation.json) | ✅ | ❌ | ❌ | 2023-01-22 | to controle the hibarnate in the console it is: `msh` and to controle minecraft is it: `mine` |
@@ -58,7 +57,7 @@ If you want to support my work:
 | Bedrock Vanilla - FEX | [egg-vanilla-bedrock-FEX.json](https://raw.githubusercontent.com/chriscdev125/RQ_eggs/refs/heads/main/game_eggs/minecraft/egg-vanilla-bedrock-FEX.json) | ❌ | ✅ | ✅ | 2025-02-05 | Works with a fast startup |
 
 
-### SteamCMD
+#### **SteamCMD**
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | 7 days to die | [egg-7-days-to-die-a-r-m64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-7-days-to-die-a-r-m64.json) | ❌ | ✅ | ✅ | 2023-01-26 | !!STEAMCMD!! + needs 6 ports + console is realy slow and shutdown can take up to 50 seconds |
@@ -77,7 +76,7 @@ If you want to support my work:
 | Unturned | [egg-unturned.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-unturned.json) | ❌ | ✅ | ✅ | 2023-06-29 | Needs 3 ports (game, game+1, game+2) && !!STEAMCMD!! **The first launch will segfault just wait for the server to start again** |
 | Valheim | [egg-valheim.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/steamcmd/egg-valheim.json) | ❌ | ❌ | ✅ | 2022-11-20 | !!STEAMCMD!! |
 
-### Terraria
+#### **Terraria**
 | Service | file* | AMD64 | ARM64 | ARM Oracle | Updated | More info |
 |--|--|--|--|--|--|--|
 | Terraria Vanilla | [egg-terraria-vanilla-ARM64.json](https://raw.githubusercontent.com/QuintenQVD0/Q_eggs/main/game_eggs/terraria/egg-terraria-vanilla-ARM64.json) | ❌ | ✅ | ✅ | 2022-12-20 |
@@ -138,4 +137,3 @@ How to do it:
 ![afbeelding](https://github.com/QuintenQVD0/Q_eggs/assets/67589015/be782bfb-81a3-484a-8b67-10d015f818b8)
 ![afbeelding](https://github.com/QuintenQVD0/Q_eggs/assets/67589015/bbe1cb31-9505-4bd1-8a1d-5e5b248da3d2)
 ![afbeelding](https://github.com/QuintenQVD0/Q_eggs/assets/67589015/be1bb45e-5064-4945-a93b-4c74ffe91e26)
-
